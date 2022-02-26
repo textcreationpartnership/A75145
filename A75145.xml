@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of a small part of Mr. John Frank's proceeding against David Bruce</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75145</idno>
+            <idno type="STC">Wing A192A</idno>
+            <idno type="STC">ESTC R176278</idno>
+            <idno type="EEBO-CITATION">45504674</idno>
+            <idno type="OCLC">ocm 45504674</idno>
+            <idno type="VID">171568</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171568)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2577:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of a small part of Mr. John Frank's proceeding against David Bruce</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verso of sheet contains verses, "Bruces lamentation" and "On the praise of Mr. John Frank, to the tune of, When all souls vvas at rest."</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bruce, David.</term>
+               <term>Frank, John.</term>
+               <term>Libel and slander --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171568:1" rendition="simple:additions"/>
+            <head>
+               <hi>AN ACCOUNT</hi> Of a ſmall part of Mr. <hi>John Frank</hi>'s Proceeding againſt <hi>David Bruce.</hi>
+            </head>
+            <p>MR. <hi>John Frank</hi> by his Covetous, Ambitious, Unjuſt and Malitious Inventions, hath keeped a Plea which he knew to be a meer Cheat this twenty years againſt <hi>David Bruce:</hi> Amongſt the reſt of his Inventions, he extracted an unjuſt Decreet, Inſerting a Gentleman as compeeting for <hi>Bruce,</hi> who neither knew <hi>Bruce,</hi> nor of the Decreet: But <hi>Bruce</hi> applying himſelf to the Lords, they did moſt juſtly put a ſtop to his Decreet Declarator. Reduction and Exhibition, and all other Diligence which he had raiſed up<g ref="char:EOLhyphen"/>on that Decreet. Finding himſelf diſappointed of that deep drawn deceitſful Deſign, he then falls upon ano<g ref="char:EOLhyphen"/>ther Deſign to Kill and take Poſſeſſion, he having the Provoſt of <hi>Peebles</hi> his near Couſin, and one of the Baillies Married upon the ſaid Mr. <hi>John</hi> his Siſter, they being Magiſtrates by Commiſſion from the late King: He then invents a moſt Damnable, Lying, Abominable Murdering Criminal Lybel: And before ever any thing was proven, they Robbed <hi>Bruce</hi> of his Nets and Guns eight dayes before <hi>Franks</hi> Lybel was produced, and preſently caſt him into Priſon, where he was keeped cloſe Priſoner for a Month; where he had undoubtedly periſhed, if the then Secret Council had not ſet him at Liberty. Many Sheets of Paper would not contain the Crafty wayes, and unheard of practices that <hi>Frank</hi> hath taken theſe twenty years to get Poſſeſſion of this five or ſix Acres of Land, becauſe it is called <hi>Frankſland.</hi>
+            </p>
+            <div type="part">
+               <head>Here follovvs the Juſt double of <hi>Franks</hi> Lybel.</head>
+               <p>UNto the Honourable, the Provoſt and Baillies of <hi>Peebles,</hi> and beſides Juſtices of His Majeſties Peace within the ſaid Burgh, means and ſhows Mr. <hi>John Frank</hi> Writer to His Majeſties Signet, and one of the Commiſſioners of the Writers appointed be the Earls of <hi>Murray</hi> and <hi>Melfort</hi> His Majeſties Secretaries of State, and preſent Treaſurer to the Writers: And complains upon <hi>David Bruce</hi> Indweller there, an noto<g ref="char:EOLhyphen"/>rious Slanderer and Backbiter. That where the ſaid <hi>David Bruce</hi> having ſhaken off all fear of God and Re<g ref="char:EOLhyphen"/>ligion, and Reſpect to all Laws Divine and Humane; and conceiving an Groundleſs, Murderous and Ma<g ref="char:EOLhyphen"/>litious Hatred, Malice and Evil Will againſt the ſaid Mr. <hi>John Frank, Animo Injurandi &amp; Defamandi,</hi> con<g ref="char:EOLhyphen"/>trait to and without all Law Civil, Eccleſiaſtical and Municipal. To ſeveral Perſons, in ſeveral Companies, and at ſeveral Times, without any juſt Ground, Cauſe or Provocation given be the ſaid Mr. <hi>John Frank.</hi> And behind his Back, when he was in the exerciſe of his ſaid publick Office and Truſt at <hi>Edinburgh,</hi> Threat<g ref="char:EOLhyphen"/>ned, Shoated Menaced; and with great Oaths and Imprecations, Vowed and Promiſed to have ſhed the ſaid Mr. <hi>John Frank</hi> his Blood, though his own ſhould be ſhed for it, and to wait his Life upon him. And likewayes Deſigned, Endeavoured and made it his Work and Buſineſs, To Slander, Traduce, Reproach and Defame the ſaid Mr. <hi>John Frank,</hi> an perſon of intire <hi>FAME</hi> and Publick Truſt: And has invented, vent<g ref="char:EOLhyphen"/>ed and ſpread moſt Wickedly and Imperiouſly to the Diſgrace, Defamation and Ruine (in ſo far as in him lay) of the ſaid Mr. <hi>John</hi> many falſe Slanderous, Reproachful and Scandalous Speeches, Expreſſions and Aſſertions. And particularly on the ſeveral dayes of this Month of <hi>March,</hi> The ſaid <hi>David Bruce</hi> moſt Ryotouſly, Wickedly, Barbarouſly and Unchriſtianly Vowed and Swore with great Oaths, that he ſhould have or ſhed the ſaid Mr. <hi>John Frank</hi> his Blood, though his own ſhould be ſhed for it, and to wait his Life upon him; and this he did to and before <hi>John Govan</hi> Provoſt, <hi>Thomas Chiſholme</hi> Baillie, and <hi>William Williamſon</hi> Clerk, <hi>John Wood</hi> Indweller there, and many others. And likewiſe moſt Falſly and Impudent<g ref="char:EOLhyphen"/>ly ſaid and affirmed before the foreſaids perſons, and <hi>Beſsie Lowes</hi> Spouſe to <hi>John Johnſtoun</hi> Burges of <hi>Peebles</hi> and ſeveral others, That the ſaid Mr. <hi>John Frank</hi> had written wrong, and made falſe Writs, and was an Shire man: And that the Lords of Seſſion was to puniſh him exemplarly for it, and that none ſhould Truſt nor Imploy him: And that the ſaid Mr. <hi>John</hi> had to ruine him, cheatingly imployed an Advocate to compear for him, without his knowledge, and to collude with the ſaid Mr. <hi>John</hi> and ſuffer an Decreet to paſs againſt him in favours of the ſaid Mr. <hi>John.</hi> And the ſaid <hi>David</hi> moſt Cunningly and Malitiouſly, the better to en<g ref="char:EOLhyphen"/>force the ſaid wicked Slanderous, Calumnious and falſe Speeches and Aſſertions; and to make the ſame paſs for Truth with all people, be impudently and deſignedly did take an Paper out of his Pocket, and red the ſame before the perſons aforenamed and ſeveral others, as if the Lords of Seſſion had ſo ſound: And as if they had decerned the ſaid Mr. <hi>John</hi> to be degraded of his Office, declared incapable of publick Truſt, and ordained him to be exemplarily puniſhed. And the ſaid <hi>David Bruce</hi> did wickedly repeat and perſiſt in the ſaids Ryotous, Slanderous and Defamatory Speeches.</p>
+               <p>By all which the ſaid <hi>David Bruce,</hi> is guilty of an complext repeated open and manifeſt Ryot, forethought Fellonie, and intended and declared Murder, Defamation, Lieſing-making, Backbiting and Slander, and of groſs and ſhameleſs Scandal Calumnie and Detraction of an Honeſt Man of intire Fame, ane Perſon of publick Truſt and Office under his Majeſty and Secretaries of State, and ought in all Law and Juſtice to be ſeverely and exemplarly Puniſhed and Stigmatized, in his Name, Perſon, and Goods, to the ſecurity of his Majeſties Peace; to the good and ſervice of his Majeſties Secretaries of State, and the Leidges; and to the Example and Terrour of others to commit the like in time coming. And ſicklike to content and pay to the ſaid Mr, <hi>John Franck,</hi> the Sume of Ten Thouſand Pownd Scots Money, as the Damage and Intereſt ſuſtained by him, (he being an Writer to his Majeſties Signet, and of publick Truſt and Office as ſaid is.) through the ſaid deſperate and Abominable Ryot declared Murder, and voved Slander Defamation and Scan<g ref="char:EOLhyphen"/>dal, and to be further puniſhed conforme to Law and his Demerit.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171568:2"/>
+               <head>The Juſt double of the Royal Magiſtrates of <hi>Peebles</hi> Sentence <hi>4 April 1688.</hi>
+               </head>
+               <p>THe Proveſt Bailies and Council of <hi>Peebles,</hi> having conſidered this complaint and the Depoſitions of the Witneſſes taken for proving thereof; they find nothing of the Slander proven againſt <hi>David Bruce,</hi> but finds the expreſſion proven that if Mr, <hi>Frank</hi> ſhould gain that play, he ſhould have his Blood, and there<g ref="char:EOLhyphen"/>fore ordains <hi>David Bruce</hi> to continue in Priſon while he find Caution under the pain of 500, Merks to keep the Kings Peace and to leave peaceably towards all Men, and eſpecially to the ſaid Mr, <hi>John Frank</hi> and his Fa<g ref="char:EOLhyphen"/>mily whom he has ſo threatned to bereave of his life, and likewiſe that he ſhall not weare any Offenſive Arms ſecret or open under the ſame Penalty.</p>
+               <closer>
+                  <signed>Sic Suſcribitur.
+<list>
+                        <item>I. G.</item>
+                        <item>W S.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>Bruces Lamentation.</head>
+               <lg>
+                  <l>MY Netts and Guns are ſeaſ'd, with Caution to compear,</l>
+                  <l>I in cloſe Priſon caſt, and yet the Cauſe not clear,</l>
+                  <l>Only he ſayes, and ſhe ſayes, and ſo ſays his good Brother.</l>
+                  <l>That if <hi>Frank</hi> had done ſomething, <hi>Bruce</hi> ſhould have done ſome other</l>
+                  <l>A moſt Horrid and Terrible Crime as ever yet was found,</l>
+                  <l>Stigmatizing, the fine <hi>Ten</hi> Thouſand Pownd.</l>
+                  <l>With Caution to be found to the Peace beſide,</l>
+                  <l>Otherwiſe in cloſe Priſon ſtill for to abide.</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>lains, Thieves and Robbers, to all I muſt be Bound,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mongſt our Royal Magiſtrates, this Law it ſhall be found.</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ing <hi>I</hi> muſt carry, my ſelf for to Defend,</l>
+                  <l>I muſt hold my ſelf Content, till ſome Relief God ſend.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>On the Praiſe of Mr. <hi>John Frank,</hi>
+               </head>
+               <opener>To the Tune of, <hi>When all Souls vvas at Reſt.</hi>
+               </opener>
+               <lg>
+                  <l>YOur Lybel and your Elegie,</l>
+                  <l>
+                     <hi>Bruce,</hi> hath them in great State.</l>
+                  <l>With great remarks upon your Acts,</l>
+                  <l>Your Tomb with Copper Plate.</l>
+                  <l>How you the Lady of our Time,</l>
+                  <l>Adorn'd with rich Attire.</l>
+                  <l>With ſhort and long Vails Nobilly.</l>
+                  <l>Even to your hearts deſire.</l>
+               </lg>
+               <lg>
+                  <l>How that ſhe Her Journeyes made,</l>
+                  <l>In Coach with handſome Train;</l>
+                  <l>How that ſhe to our City came,</l>
+                  <l>And How return'd again.</l>
+                  <l>Your Mother of worthy Memory.</l>
+                  <l>Your Tomb does here Extole,</l>
+                  <l>She ſure was of ſome Family;</l>
+                  <l>Your Father was in Poll.</l>
+               </lg>
+               <lg>
+                  <l>How you, your learning did acquire,</l>
+                  <l>And did your Honour raiſe;</l>
+                  <l>Your Speech before the Faculty,</l>
+                  <l>Deſerves the Leerned's Praiſe.</l>
+                  <l>Your ſtately Style and writing Brave,</l>
+                  <l>With Wiſdome and with Skill,</l>
+                  <l>Of all ſorts of ſecurities,</l>
+                  <l>Of Rich Men their laſt Will.</l>
+               </lg>
+               <lg>
+                  <l>Your Lodging and your Chambers Brave.</l>
+                  <l>Your noble Bed of State,</l>
+                  <l>With all fine things that you have,</l>
+                  <l>Speaks forth your Judgment Great.</l>
+                  <l>The Law and Goſpel you know well.</l>
+                  <l>
+                     <hi>Bruce</hi> well can prove the one,</l>
+                  <l>Your Elogy the Goſpel proves,</l>
+                  <l>It Parallel can none.</l>
+               </lg>
+               <lg>
+                  <l>Your Loyalty it was well known,</l>
+                  <l>When to the Camp you came,</l>
+                  <l>Likewayes unto the City ſhowen,</l>
+                  <l>All Men will ſay the ſame.</l>
+                  <l>You mortified to our Poor,</l>
+                  <l>Your Gilded Broad ſet forth,</l>
+                  <l>Your Soul ſeek for to ſecure;</l>
+                  <l>Who can declare your Worth.</l>
+               </lg>
+               <lg>
+                  <l>Who can your great Praiſe ſet forth,</l>
+                  <l>Or your rare Deeds Rehearſe;</l>
+                  <l>It is a thing that is too high,</l>
+                  <l>For Mortals or for Verſe.</l>
+                  <l>Our Church and our City both,</l>
+                  <l>Are troubled in theſe times.</l>
+                  <l>Your known the Inſtrument to be,</l>
+                  <l>That hates dividing Crimes.</l>
+               </lg>
+               <lg>
+                  <l>By your great Wit and Oratrie,</l>
+                  <l>You are now an Advocate,</l>
+                  <l>When <hi>Bruce</hi> ſhall at the Bar you ſee,</l>
+                  <l>Let him take head to that.</l>
+                  <l>The Scriptures true which cannot lie.</l>
+                  <l>Some things in them are ſaid.</l>
+                  <l>That will befit your Elogie.</l>
+                  <l>When you in Tombs are Laid.</l>
+                  <trailer>Probatum Eſt.</trailer>
+               </lg>
+               <epigraph>
+                  <q>
+                     <l>
+                        <hi>Bruce</hi> ſayes nothing but the Truth,</l>
+                     <l>Leaſt he break Lawboroues:</l>
+                     <l>For Lying, Cheating Raſcals all</l>
+                     <l>They will deſerve the Gallows.</l>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the year 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
